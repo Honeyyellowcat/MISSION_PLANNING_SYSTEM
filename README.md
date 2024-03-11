@@ -13,7 +13,7 @@ The Mission Planning and Scheduling System is a comprehensive software solution 
 
 ## Technologies Used
 - **Programming Language**: C, Python
-- 
+
 ## Usage
 1. Launch the Mission Planning and Scheduling System application.
 2. Follow the on-screen prompts to perform various mission planning and scheduling tasks.
