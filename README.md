@@ -12,7 +12,7 @@ The Mission Planning and Scheduling System is a comprehensive software solution 
 - **Flexibility and Adaptability**: Handle dynamic changes and contingencies during mission execution, such as mission delays, trajectory adjustments, and resource constraints.
 
 ## Technologies Used
-- **Programming Language**: C, Python
+- **Programming Language**: C and Python
 
 ## Usage
 1. Launch the Mission Planning and Scheduling System application.
